@@ -1,0 +1,2 @@
+# Optimal-Route-Management-For-Mobile-Energy-Storage
+The mobile energy transport systems are essential for limiting carbon emissions in road traffic. This model is designed to optimize transportation distance to reduce operating costs, thereby improving the efficiency of transport management. The mixed integer linear programming technique is used to develop the model and is implemented using Python.
