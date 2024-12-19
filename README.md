@@ -1,5 +1,5 @@
 # Optimal-Route-Management-For-Mobile-Energy-Storage
-This repository contains two models - (1) vehicle routing optimization for mobile energy storage including technical details (2) An Extended model with an Optimal Charging Cycle for MESS. The mathematical formulations con be found in the PDF file. The models are presented in Jupyter Notebook format.
+This repository contains two models - (1) vehicle routing optimization for mobile energy storage including technical details (2) An Extended model with an Optimal Charging Cycle for MESS. The mathematical formulations can be found in the PDF file Named "Mathematical model description". The findings and future work of this project is presented in PDF file named "presentation of the project including findings and future work". The models are presented in Jupyter Notebook format.
 
 ## Descriptions
 ### Model Optimal vehicle routing
